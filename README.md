@@ -1,6 +1,8 @@
 # torneo-esports-uml
 Tarea del tercer trimestre de la asignatura EEDD
-# Sistema de Gestión de Torneos de eSports 
+
+# Sistema de Gestión de Torneos de eSports
+
 ## Autor 
 Aarón Díaz Hernández
 Aarondh84
@@ -21,9 +23,6 @@ torneo-esports-uml/
 │ ├── clases.png 
 ├── README.md 
 ├── .gitignore 
-
-## Instalación y Ejecución 
-`git clone https://github.com/Aarondh84/torneo-esports-uml.git` 
 
 ## Justificación del diseño 
 Se ha elegido un diseño basado en el lenguaje UML dado que el mismo permite visualizar, especificar y documentar gráficamente las partes de las que comprende el desarrollo del software.
