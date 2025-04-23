@@ -1,0 +1,29 @@
+# Archivos compilados de Java
+*.class
+
+# Directorios de construcción del proyecto
+/build/
+/bin/
+/out/
+
+# Archivos generados por IDEs
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencias externas (si utilizas herramientas de gestión como Maven o Gradle)
+target/
+.gradle/
+
+# Otros archivos que no deben versionarse
+*.tmp
+*.bak
